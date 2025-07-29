@@ -1,0 +1,9 @@
+{
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "dropout": 0.25,
+  "optimizer": "Adam",
+  "epochs": 50,
+  "data_augmentation": "RandomInvert(p=0.5)",
+  "scheduler": null
+}
